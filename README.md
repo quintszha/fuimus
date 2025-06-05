@@ -34,3 +34,5 @@ The focus was on creating a visually appealing and responsive design with smooth
 Special thanks to **Swift Mastery** for providing the in-depth tutorial that guided this project. 
 
 # Touch update: 1760643681
+
+# Touch update: 1760643681
